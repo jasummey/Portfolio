@@ -1,0 +1,84 @@
+.App {
+  text-align: left;
+  background-color: #cbd1db;
+}
+
+.App-header {
+  background-color: #cbd1db;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: left;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+.profilePic {
+  height: 10%;
+  width: 10%;
+  border-radius: 75%;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.navbar-brand {
+  padding-top: 10px;
+  padding-left: 20px;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-left: 15%;
+  margin-right: 15%;
+  min-height: auto;
+  min-width: auto;
+  color: black;
+}
+
+#contactMe {
+  display: flex;
+  flex-direction: column;
+  margin-left: 15%;
+  margin-right: 15%;
+  min-height: auto;
+  min-width: auto;
+  color: black;
+  font-size: 18px;
+  background-color: #cbd1db;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+h3 {
+  border-bottom: 2px solid black;
+}
+
+.card-body {
+  text-align: justify;
+}
