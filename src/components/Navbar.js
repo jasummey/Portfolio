@@ -6,12 +6,21 @@ import EmailIcon from "@mui/icons-material/Email";
 import GitHubIcon from "@mui/icons-material/GitHub";
 
 function Navbar() {
+  const linkedIn = "https://www.linkedin.com/in/janesummey";
   return (
     <div className="navbar">
+      <div className="name">Jane Summey</div>
       <div className="icons">
-        <LinkedInIcon />
-        <EmailIcon />
-        <GitHubIcon />
+        <a href={linkedIn} target="_blank" rel="noopener noreferrer">
+          <LinkedInIcon />
+        </a>
+
+        <a href="mailto:bjanesummey@gmail.com">
+          <EmailIcon />
+        </a>
+        <a href="https://github.com/jasummey">
+          <GitHubIcon />
+        </a>
       </div>
       <div className="links">
         <Link to="/">Home</Link>

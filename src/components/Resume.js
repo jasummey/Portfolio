@@ -1,14 +1,16 @@
 import React from "react";
-import { Document, Page } from "react-pdf";
+import resume from "../pdf/Resume.pdf";
+import "./resume.css";
 
-import "react-pdf/dist/esm/Page/AnnotationLayer.css";
-
-function Resume(resume) {
+function Resume() {
   return (
     <div>
-      <Document file={resume}>
-        <Page pageNumber={1} />
-      </Document>
+      <object
+        className="resume"
+        data={resume}
+        alt="Jane Summey Resume"
+      ></object>
+      {/* <embed src={resume} type="resume/pdf" width="100%" height="800px" /> */}
     </div>
   );
 }

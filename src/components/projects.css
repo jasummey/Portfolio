@@ -1,0 +1,12 @@
+.projectDisplay {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  font-family: "Arial", sans-serif;
+  color: #3e497a;
+  background-color: #34568b;
+  color: #f3dbdb;
+}
