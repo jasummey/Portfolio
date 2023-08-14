@@ -1,5 +1,5 @@
 import React from "react";
-import "./projects.css";
+import "./styles/projects.css";
 
 import ProjectDisplay from "./ProjectDisplay";
 

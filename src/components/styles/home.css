@@ -5,7 +5,7 @@
   align-items: center;
   justify-content: center;
   align-items: center;
-  font-family: "Arial", sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: #3e497a;
   background-color: #34568b;
   color: #f3dbdb;
@@ -47,14 +47,16 @@
   width: auto;
   font-size: 30px;
 }
-.prompt svg {
-  font-size: 60px;
-  margin: 5px;
+.prompt span {
+  font-size: 20px;
+  margin: 25px;
   color: white;
+  justify-content: center;
+  align-items: center;
 }
 
 .skills {
-  font-size: 35px;
+  font-size: 25px;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -62,6 +64,7 @@
   align-items: center;
 }
 
-.skills h1 {
+.skills h2 {
   color: #f7cac9;
+  border-bottom: 2px solid black;
 }

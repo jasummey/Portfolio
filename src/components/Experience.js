@@ -1,5 +1,5 @@
 import React from "react";
-import "../components/experience.css";
+import "../components/styles/experience.css";
 
 function Experience() {
   return (
@@ -8,16 +8,17 @@ function Experience() {
         {" "}
         <h2>Education</h2>
         <h3> Associates Degree Business Administration</h3>
-        <span>
+        <li>
           Cleveland Community College, Shelby, NC, In Progress, estimated
-          completiion, Fall, 2024.
-        </span>
+          completion, Fall, 2024.
+        </li>
       </div>
       <div>
-        <span>
+        <h3>Full Stack Web Development Certificate</h3>
+        <li>
           Full Stack Web Development Certificate, Kenzie Academy, estimated
-          completiion October, 2023.
-        </span>
+          completion October, 2023.
+        </li>
       </div>
       <br />
       <div>

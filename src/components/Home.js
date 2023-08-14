@@ -1,5 +1,5 @@
 import React from "react";
-import "../components/home.css";
+import "../components/styles/home.css";
 import profilePic from "./profilepic.jpg";
 
 function Home() {
@@ -10,14 +10,21 @@ function Home() {
       <div className="about">
         <h2>Nice to meet you, my name is Jane</h2>
         <div className="prompt">
-          <span>a little something about me.</span>
+          <span>
+            I'm a new web developer with a passion for learning new things and
+            growing in the field of web development. My interest began when I
+            first learned the endless possibilites you can accomplish with
+            writing code and designing web applications. When I am not codin or
+            working, I am leading and teaching a group of Cub Scouts, as a Den
+            Leader, for the Boy Scouts of America.
+          </span>
         </div>
       </div>
       <div className="skills">
         <h2>Skills</h2>
         <ul className="list">
           <li className="item">
-            <h2>Languages</h2>
+            <span>ReactJS, HTML, CSS, BootStrap, JavaScript, MongoDB</span>
           </li>
         </ul>
       </div>
