@@ -13,8 +13,8 @@ function Home() {
           <span>
             I'm a new web developer with a passion for learning new things and
             growing in the field of web development. My interest began when I
-            first learned the endless possibilites you can accomplish with
-            writing code and designing web applications. When I am not codin or
+            first learned the endless possibilities you can accomplish with
+            writing code and designing web applications. When I am not coding or
             working, I am leading and teaching a group of Cub Scouts, as a Den
             Leader, for the Boy Scouts of America.
           </span>
