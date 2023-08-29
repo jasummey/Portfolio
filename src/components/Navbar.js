@@ -9,7 +9,7 @@ function Navbar() {
   const linkedIn = "https://www.linkedin.com/in/janesummey";
   return (
     <div className="navbar">
-      <div className="name">Jane Summey</div>
+      <div className="name">Beatrice Jane Summey</div>
       <div className="icons">
         <a href={linkedIn} target="_blank" rel="noopener noreferrer">
           <LinkedInIcon />

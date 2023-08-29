@@ -7,6 +7,7 @@ import Projects from "./components/Projects";
 import Experience from "./components/Experience";
 import Resume from "./components/Resume";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (

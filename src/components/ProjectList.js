@@ -1,33 +1,36 @@
 import React from "react";
 import ProjectDisplay from "./ProjectDisplay";
+import affgeneratorimg from "./affgeneratorimg.png";
 
 export default function ProjectList() {
   const projects = [
     {
-      name: "Project 1",
-      description: "app description",
-      image: "",
-      githubLink: "https://github.com/jasummey",
+      name: "Affirmation Generator",
+      description:
+        "Application where users can visit and get a random affirmation. Completed using React.",
+      image: affgeneratorimg,
+      githubLink: "https://github.com/jasummey/affirmationGenerator",
     },
     {
-      name: "Project 2",
+      name: "Connect Four",
       image: "",
-      description: "app description",
-      githubLink: "https://github.com/jasummey",
+      description: "Connect Four Team Project",
+      githubLink:
+        "https://github.com/KenzieAcademy-Students/teamwork-assessment-connect-four-jasummey",
     },
   ];
   return (
     <div>
-      <h2>My Projects</h2>
-      <div className="projects-list">
+      <div className="row">
         {projects.map((project, index) => (
-          <ProjectDisplay
-            key={index}
-            name={project.name}
-            description={project.description}
-            imageUrl={project.image}
-            githubLink={project.githubLink}
-          />
+          <div className="col-md-4" key={index}>
+            <ProjectDisplay
+              name={project.name}
+              description={project.description}
+              image={project.image}
+              githubLink={project.githubLink}
+            />
+          </div>
         ))}
       </div>
     </div>
