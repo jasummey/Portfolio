@@ -1,6 +1,8 @@
 import React from "react";
 import ProjectDisplay from "./ProjectDisplay";
 import affgeneratorimg from "./affgeneratorimg.png";
+import wanderlogimg from "./wanderlog screenshot.png";
+import connectfourimg from "./connect four screenshot.png";
 
 export default function ProjectList() {
   const projects = [
@@ -13,10 +15,17 @@ export default function ProjectList() {
     },
     {
       name: "Connect Four",
-      image: "",
+      image: connectfourimg,
       description: "Connect Four Team Project",
       githubLink:
         "https://github.com/KenzieAcademy-Students/teamwork-assessment-connect-four-jasummey",
+    },
+    {
+      name: "Wander Log",
+      image: wanderlogimg,
+      description:
+        "Travel log for users to leave logs regarding their travels.",
+      githubLink: "https://github.com/jasummey/travellog",
     },
   ];
   return (

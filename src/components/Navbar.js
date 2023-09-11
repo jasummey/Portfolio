@@ -18,7 +18,11 @@ function Navbar() {
         <a href="mailto:bjanesummey@gmail.com">
           <EmailIcon />
         </a>
-        <a href="https://github.com/jasummey">
+        <a
+          href="https://github.com/jasummey"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <GitHubIcon />
         </a>
       </div>
