@@ -1,19 +1,21 @@
+html {
+  background-color: #34568b;
+}
+
 .projectDisplay {
   display: flex;
   flex-direction: column;
-  width: 100%;
   align-items: center;
   justify-content: center;
-  align-items: center;
   font-family: "Arial", sans-serif;
-  color: #3e497a;
+  color: white;
   background-color: #34568b;
-  color: #f3dbdb;
 }
 
 .card {
-  width: 400px;
-  height: 400px;
+  width: 90%;
+  max-width: 400px;
+  height: auto;
   margin: 10px;
   background-color: #3e497a;
   color: #f3dbdb;

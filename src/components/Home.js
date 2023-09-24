@@ -24,7 +24,10 @@ function Home() {
         <h2>Skills</h2>
         <ul className="list">
           <li className="item">
-            <span>ReactJS, HTML, CSS, BootStrap, JavaScript, MongoDB</span>
+            <span>
+              ReactJS, HTML, CSS, BootStrap, JavaScript, MongoDB, Express,
+              Node.js
+            </span>
           </li>
         </ul>
       </div>

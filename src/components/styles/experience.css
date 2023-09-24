@@ -1,27 +1,22 @@
-html {
-  background-color: #34568b;
-}
+/* Update your CSS to remove text-align: center; */
 .experience {
   width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-  text-align: center;
+  align-items: stretch;
   background-color: #34568b;
   color: #f0f0f0;
-  padding: 20px;
+  padding: 50px;
 }
 
 h3 {
-  /* border-bottom: 2px solid black; */
   width: 100%;
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  text-align: center;
   background-color: #34568b;
   color: #f0f0f0;
 }
