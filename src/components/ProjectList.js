@@ -1,6 +1,6 @@
 import React from "react";
 import ProjectDisplay from "./ProjectDisplay";
-import affgeneratorimg from "./affgeneratorimg.png";
+import affgeneratorimg from "./affirmationgenerator.png";
 import wanderlogimg from "./wanderlog screenshot.png";
 import connectfourimg from "./connect four screenshot.png";
 
