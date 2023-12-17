@@ -1,11 +1,16 @@
 import React from "react";
 import "../components/styles/home.css";
-import profilePic from "./profilepic.jpg";
+// import profilePic from "./profilepic.jpg";
+import newprofilepicdec2023 from "./newprofilepicdec2023.jpg";
 
 function Home() {
   return (
     <div className="home">
-      <img className="img" src={profilePic} alt="Jane Summey headshot"></img>
+      <img
+        className="img"
+        src={newprofilepicdec2023}
+        alt="Jane Summey headshot"
+      ></img>
 
       <div className="about">
         <h2>Nice to meet you, my name is Jane</h2>
@@ -26,7 +31,8 @@ function Home() {
           <li className="item">
             <span>
               ReactJS, HTML, CSS, BootStrap, JavaScript, MongoDB, Express,
-              Node.js
+              Node.js, SQL, Postman, GitHub, VS Code, Agile/Scrum Methodology,
+              Microsoft Office Software, Python, Git Bash, Netlify, AWS
             </span>
           </li>
         </ul>

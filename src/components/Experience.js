@@ -12,14 +12,13 @@ function Experience() {
         <h4> Associates Degree Business Administration</h4>
         <li>
           Cleveland Community College, Shelby, NC, In Progress, estimated
-          completion, Fall, 2024.
+          completion, Spring, 2024.
         </li>
       </div>
       <div>
         <h4>Full Stack Web Development Certificate</h4>
         <li>
-          Full Stack Web Development Certificate, Kenzie Academy, estimated
-          completion October, 2023.
+          Full Stack Web Development Certificate, Kenzie Academy, October, 2023.
         </li>
       </div>
       <br />
