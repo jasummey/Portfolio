@@ -32,7 +32,8 @@ function Home() {
             <span>
               ReactJS, HTML, CSS, BootStrap, JavaScript, MongoDB, Express,
               Node.js, SQL, Postman, GitHub, VS Code, Agile/Scrum Methodology,
-              Microsoft Office Software, Python, Git Bash, Netlify, AWS
+              Microsoft Office Software, Python, Git Bash, Netlify, AWS, Power
+              BI
             </span>
           </li>
         </ul>
