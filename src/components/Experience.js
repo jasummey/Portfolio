@@ -9,11 +9,6 @@ function Experience() {
         <h3>
           <u>Education</u>
         </h3>
-        <h4> Associates Degree Business Administration</h4>
-        <li>
-          Cleveland Community College, Shelby, NC, In Progress, estimated
-          completion, Summer, 2024.
-        </li>
       </div>
       <div>
         <h4>Full Stack Web Development Certificate</h4>
