@@ -21,6 +21,46 @@ function Experience() {
         <h3>
           <u>Work Experience</u>
         </h3>
+
+        <h4>Honeywell International, Inc.</h4>
+        <p>
+          <strong>Location:</strong> Charlotte, North Carolina (Remote)
+        </p>
+        <p>
+          <strong>Position:</strong> Policy Specialist II
+        </p>
+        <p>
+          <strong>Date:</strong> March 2025 - Current Employee
+        </p>
+        <ul>
+          <li>
+            Develop and maintain Power BI semantic models and Excel-based data
+            structures for global real estate analytics and executive reporting
+          </li>
+          <li>
+            Transform, standardize, and validate financial and operational data
+            from multiple systems to support consistent KPI tracking
+          </li>
+          <li>
+            Build and automate dashboards, ROI models, and recurring reports to
+            improve data accessibility and decision-making
+          </li>
+          <li>
+            Design and implement a Python-based commute analysis integrated into
+            Power BI to support executive evaluation of site accessibility and
+            workforce impact
+          </li>
+          <li>
+            Manage rent payment tracking and reporting across leased sites in
+            North America and Canada, ensuring accuracy and compliance
+          </li>
+          <li>
+            Document datasets, calculations, and reporting processes and support
+            quality assurance testing for internally developed real estate
+            software
+          </li>
+        </ul>
+
         <h4>Stewart Title Guaranty Company</h4>
         <p>
           <strong>Location:</strong> Charlotte, North Carolina (Remote)
@@ -29,44 +69,13 @@ function Experience() {
           <strong>Position:</strong> Policy Specialist II
         </p>
         <p>
-          <strong>Date:</strong> November 2018 - Current Employee
-        </p>
-        <ul>
-          <li>
-            Built relationships with attorneys to build business across the
-            state of North Carolina.
-          </li>
-          <li>
-            Maintained monthly reports to track premium and office income.
-          </li>
-        </ul>
-
-        <h4>Closure Title</h4>
-        <p>
-          <strong>Location:</strong> Charlottesville, Virginia
-        </p>
-        <p>
-          <strong>Position:</strong> Underwriter
-        </p>
-        <p>
-          <strong>Date:</strong> February 2018 - November 2018
-        </p>
-        <ul>
-          <li>
-            Underwriter for the agency to process files and work with other
-            parties to solve any title issues prior to closing.
-          </li>
-        </ul>
-
-        <h4>Stewart Title Guaranty Company</h4>
-        <p>
-          <strong>Location:</strong> Charlotte, North Carolina (Remote)
+          <strong>Date:</strong> November 2018 - March 2025
         </p>
         <p>
           <strong>Position:</strong> Policy Specialist I
         </p>
         <p>
-          <strong>Date:</strong> August 2017 - February 2018
+          <strong>Date:</strong> August 2017 - November 2018
         </p>
         <ul>
           <li>
